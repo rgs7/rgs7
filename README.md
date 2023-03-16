@@ -1,2 +1,1 @@
-- 📫 How to reach me: 
-- email: ricardogro@outlook.com
+- Learning iOS development.
