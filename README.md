@@ -1,1 +1,1 @@
-- QA learning iOS and Flutter development.
+- QA learning Python and iOS development.
