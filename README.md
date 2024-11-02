@@ -1,1 +1,1 @@
-- QA learning Python and iOS development.
+- python, python & more python.
