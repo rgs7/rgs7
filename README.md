@@ -1,1 +1,1 @@
-- python, python & more python.
+- python for data science.
